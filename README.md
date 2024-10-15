@@ -155,10 +155,23 @@ eb open
 ```
 
 # Screenshots
-Login endpoint returning JWT token.
 
+![Register User](screenshots/register_user.png)
 
 Creating a transaction with the user's JWT token.
+
+![Create Transaction](screenshots/create_transaction.png)
+
+Getting all transactions 
+![Get Transaction](screenshots/get_all_transactions.png)
+
+Deploy the API to AWS (Elastic Beanstalk)
+
+![Get Transaction](screenshots/deploying_completion.png)
+
+
+
+
 
 
 
